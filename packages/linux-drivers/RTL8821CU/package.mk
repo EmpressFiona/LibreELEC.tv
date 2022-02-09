@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: GPL-2.0-or-later
 
 PKG_NAME="RTL8821CU"
-PKG_VERSION="2e4363444b294a52fc9c7b527199bb403060eee7"
+PKG_VERSION="ef3ff12118a75ea9ca1db8f4806bb0861e4fffef"
 PKG_LICENSE="GPL"
 PKG_SITE="https://github.com/brektrou/rtl8821CU"
 PKG_URL="https://github.com/brektrou/rtl8821CU/archive/$PKG_VERSION.tar.gz"
